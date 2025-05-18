@@ -23,8 +23,8 @@ This project allows you to make intelligent queries on custom datasets such as a
 
 
 ```bash
-git clone https://github.com/yupAyush/ArticleQnA.git
-cd ArticleQnA
+git clone https://github.com/yupAyush/ArticleQNA.git
+cd ArticleQNA
 
 
  
