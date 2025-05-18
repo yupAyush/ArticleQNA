@@ -9,13 +9,18 @@ This project allows you to make intelligent queries on custom datasets such as a
 - Store and search embeddings efficiently with FAISS
 - Query data in natural language via LangChain
 
-## Getting Started
-
-### 1. Clone the Repository
 
 
 ##Example of how it would look like
 ![projectui](https://github.com/user-attachments/assets/e689a491-ecd6-4959-902d-8d50abf2b260)
+
+
+## Getting Started
+
+
+
+### 1. Clone the Repository
+
 
 ```bash
 git clone https://github.com/yupAyush/ArticleQnA.git
