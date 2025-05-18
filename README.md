@@ -11,7 +11,7 @@ This project allows you to make intelligent queries on custom datasets such as a
 
 
 
-##Example of how it would look like
+## Example of how it would look like
 ![projectui](https://github.com/user-attachments/assets/e689a491-ecd6-4959-902d-8d50abf2b260)
 
 
