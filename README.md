@@ -13,13 +13,16 @@ This project allows you to make intelligent queries on custom datasets such as a
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/custom-article-query.git
-cd custom-article-query
 
-
- ##Example of how it would look like
+##Example of how it would look like
 ![projectui](https://github.com/user-attachments/assets/e689a491-ecd6-4959-902d-8d50abf2b260)
+
+```bash
+git clone https://github.com/yupAyush/ArticleQnA.git
+cd ArticleQnA
+
+
+ 
 
 
 
